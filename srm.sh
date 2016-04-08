@@ -1,5 +1,7 @@
 #! /bin/sh
 
+set -e
+
 STMP=srm-temp
 USAGE="Usage: srm FILES..."
 
